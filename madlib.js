@@ -45,7 +45,7 @@ function greetingFor(whom) {
         "Milla": "Hello there"
     };
 
-    const greeting = specialPeople[whom] || `Hello, ${whom}!`;
+    const greeting = specialPeople[whom] || `You a bitch, ${whom}!`;
 
     return greeting;
 }
